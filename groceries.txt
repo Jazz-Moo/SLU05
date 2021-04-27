@@ -2,6 +2,7 @@ git add groceries.txt
 eggs
 flour
 Butter
+Mam wants eggs to make a cake so get on with the shopping 
 git commit -m "groceries"
 git status
 ls
