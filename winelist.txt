@@ -1,0 +1,7 @@
+-red
+-white
+-marques
+-Tempranillo
+git status
+pwd
+nano 
