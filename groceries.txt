@@ -1,0 +1,7 @@
+git add groceries.txt
+eggs
+flour
+git commit -m "groceries"
+git status
+ls
+cd ~/projects/SLU05
